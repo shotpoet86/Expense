@@ -2,7 +2,7 @@ import '../styles/ExpenseItem.css';
 
 const date = Date();
 const expenseTitle = 'car insurance';
-const expenseAmount = 294.67;
+const expenseAmount = 294.99;
 
 function ExpenseItem() {
 	return (
