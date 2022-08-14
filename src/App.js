@@ -23,7 +23,7 @@ const expenses = [
 	{
 		id: 'e4',
 		title: 'new desk',
-		amount: 450,
+		amount: 475,
 		date: new Date(2021, 5, 12)
 	},
 
